@@ -1,0 +1,1 @@
+perl setup.pl /usr/local/webmingit commit
